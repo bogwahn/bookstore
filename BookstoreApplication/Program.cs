@@ -8,6 +8,7 @@ namespace BookstoreApplication
 {
 	class Program
 	{
+		// Here is a comment!
 		static void Main(string[] args)
 		{
 		}
